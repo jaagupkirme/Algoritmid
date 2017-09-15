@@ -1,4 +1,4 @@
-package kodu2;
+package main.Kodutoo2;
 
 public class Test {
     public static void main(String[] args) {
